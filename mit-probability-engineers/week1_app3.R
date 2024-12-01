@@ -42,5 +42,3 @@ p_lab_finds_life <- (
   p_life_is_there * p_no_positive_if_there + 
   (1 - p_life_is_there) * p_no_positive_if_not_there
 ) / 3
-
-# chapter four more bayes...
