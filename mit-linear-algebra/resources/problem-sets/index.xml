@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Problem Sets on MIT OpenCourseWare</title>
+    <link>/resources/problem-sets/</link>
+    <description>Recent content in Problem Sets on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/problem-sets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18.700 Fall 2013 Problem Set 1</title>
+      <link>/resources/mit18_700f13_ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps1/data.json</guid>
+      <description>This file contains information regarding problem set 1.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 2</title>
+      <link>/resources/mit18_700f13_ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps2/data.json</guid>
+      <description>This file contains information regarding problem set 2.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 3</title>
+      <link>/resources/mit18_700f13_ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps3/data.json</guid>
+      <description>This file contains information regarding problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 4</title>
+      <link>/resources/mit18_700f13_ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps4/data.json</guid>
+      <description>This file contains information regarding problem set 4.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 5</title>
+      <link>/resources/mit18_700f13_ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps5/data.json</guid>
+      <description>This file contains information regarding problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 6</title>
+      <link>/resources/mit18_700f13_ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps6/data.json</guid>
+      <description>This file contains information regarding problem set 6.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 7</title>
+      <link>/resources/mit18_700f13_ps7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps7/data.json</guid>
+      <description>This file contains information regarding problem set 7.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 8</title>
+      <link>/resources/mit18_700f13_ps8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps8/data.json</guid>
+      <description>This file contains information regarding problem set 8.</description>
+    </item>
+    
+    <item>
+      <title>18.700 Fall 2013 Problem Set 9</title>
+      <link>/resources/mit18_700f13_ps92/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_700f13_ps92/data.json</guid>
+      <description>This file contains information regarding problem set 9.</description>
+    </item>
+    
+  </channel>
+</rss>

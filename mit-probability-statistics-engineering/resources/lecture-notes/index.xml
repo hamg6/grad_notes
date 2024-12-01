@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>app1_reli_final.pdf</title>
+      <link>/resources/app1_reli_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app1_reli_final/data.json</guid>
+      <description>This resource includes information on series and parallel systems, m-out-of-n systems, more complicated system configurations, and systems that share the load.</description>
+    </item>
+    
+    <item>
+      <title>app10_storm_ty.pdf</title>
+      <link>/resources/app10_storm_ty/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app10_storm_ty/data.json</guid>
+      <description>This resource contains the information on the topic &amp;lsquo;Relation between Storm Duration and Precipitation Intensity&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app11_max.pdf</title>
+      <link>/resources/app11_max/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app11_max/data.json</guid>
+      <description>This file contains the notes on the topic &amp;lsquo;Distribution of the Maximum of Independent Identically-Distributed Variables&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app12_waveloads.pdf</title>
+      <link>/resources/app12_waveloads/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app12_waveloads/data.json</guid>
+      <description>This file discusses the following topics: The Ocean Surface and the Distribution of Wave Height, Maximum Wave Height in a Storm, Maximum Wave Load During a Single Storm, and Maximum Annual Load.</description>
+    </item>
+    
+    <item>
+      <title>app13_col_loads.pdf</title>
+      <link>/resources/app13_col_loads/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app13_col_loads/data.json</guid>
+      <description>This file discusses the topic: Second Moment Analysis of Column Load and Design Load F*.</description>
+    </item>
+    
+    <item>
+      <title>app14_settlem.pdf</title>
+      <link>/resources/app14_settlem/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app14_settlem/data.json</guid>
+      <description>This file explains the mechanical model,and analysis of uncertainty.</description>
+    </item>
+    
+    <item>
+      <title>app15_noisy_obs.pdf</title>
+      <link>/resources/app15_noisy_obs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app15_noisy_obs/data.json</guid>
+      <description>This file discusses the topics: Conditional Distributions of Variables with Joint Normal Distribution, Application to Noisy Observations, and Best Linear Unbiased Estimation (BLUE) Theory.</description>
+    </item>
+    
+    <item>
+      <title>app16_rain_pred.pdf</title>
+      <link>/resources/app16_rain_pred/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app16_rain_pred/data.json</guid>
+      <description>This file discusses the topics: Conditional Distribution Results for Jointly Normal Vectors, and Prediction of Daily Temperatures.</description>
+    </item>
+    
+    <item>
+      <title>app17_slope_rel.pdf</title>
+      <link>/resources/app17_slope_rel/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app17_slope_rel/data.json</guid>
+      <description>This file discusses the topics: First-Order Second-Moment (FOSM) Reliability Index, Second-Moment (SM) Reliability Index,and Monte Carlo Simulation.</description>
+    </item>
+    
+    <item>
+      <title>app18_est_fin.pdf</title>
+      <link>/resources/app18_est_fin/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app18_est_fin/data.json</guid>
+      <description>This file contains the topics: Method of Moments (MOM, Maximum Likelihood (ML),and Bayesian Estimation.</description>
+    </item>
+    
+    <item>
+      <title>app19_fin_regs.pdf</title>
+      <link>/resources/app19_fin_regs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app19_fin_regs/data.json</guid>
+      <description>This file discusses the topics: Fitting a Simple Linear Regression Model, Testing the Statistical Significance of the Regression, and Comments on the Appropriateness of the Modeling Assumptions.</description>
+    </item>
+    
+    <item>
+      <title>app2_hazards.pdf</title>
+      <link>/resources/app2_hazards/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app2_hazards/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Evaluation of Natural and Man-Made Risks&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app3_fedra.pdf</title>
+      <link>/resources/app3_fedra/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app3_fedra/data.json</guid>
+      <description>This file discusses the bayes&amp;rsquo; theorem on the basis of the topic &amp;lsquo;Extra-Terrestrial Life and the Design of Experiments&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app4_eqk_pred.pdf</title>
+      <link>/resources/app4_eqk_pred/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app4_eqk_pred/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Earthquake Prediction from Imperfect Premonitory Signs&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app5_rain_norain.pdf</title>
+      <link>/resources/app5_rain_norain/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app5_rain_norain/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Is the Series of Rainy/Non-Rainy Days a Bernoulli Trial Sequence?&amp;rsquo; on the basis of Bernoulli trial sequence and dependence in binary time series.</description>
+    </item>
+    
+    <item>
+      <title>app6_buses_eqs.pdf</title>
+      <link>/resources/app6_buses_eqs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app6_buses_eqs/data.json</guid>
+      <description>This file discusses the topics: The Poisson Process,and Renewal Processes.</description>
+    </item>
+    
+    <item>
+      <title>app7_mixtures_fin.pdf</title>
+      <link>/resources/app7_mixtures_fin/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app7_mixtures_fin/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Distribution Mixtures&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>app8_hazard_func.pdf</title>
+      <link>/resources/app8_hazard_func/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app8_hazard_func/data.json</guid>
+      <description>This file discusses the reliability of old and new items using the hazard function.</description>
+    </item>
+    
+    <item>
+      <title>app9_wind_reliab.pdf</title>
+      <link>/resources/app9_wind_reliab/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/app9_wind_reliab/data.json</guid>
+      <description>This file discusses &amp;lsquo;Reliability of a Building Under Extreme Wind Loads - Choosing The Design Wind Speed&amp;rsquo; using independent random variables.</description>
+    </item>
+    
+    <item>
+      <title>briefnts1_events.pdf</title>
+      <link>/resources/briefnts1_events/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts1_events/data.json</guid>
+      <description>This file discusses the topics: Definitions, Operations with events, Properties of events, Probability of events, Conditional Probability, and Total Probability Theorem.</description>
+    </item>
+    
+    <item>
+      <title>briefnts10_estmn.pdf</title>
+      <link>/resources/briefnts10_estmn/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts10_estmn/data.json</guid>
+      <description>This file contains the notes for chi square distribution, F distribution, and t distribution.</description>
+    </item>
+    
+    <item>
+      <title>briefnts11_regrs.pdf</title>
+      <link>/resources/briefnts11_regrs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts11_regrs/data.json</guid>
+      <description>This file discusses the topics Simple Linear Regression, and Multiple Linear Regression.</description>
+    </item>
+    
+    <item>
+      <title>briefnts2_disdbn.pdf</title>
+      <link>/resources/briefnts2_disdbn/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts2_disdbn/data.json</guid>
+      <description>This file discusses the topics: Discrete Distributions, Examples of Discrete Probability Distributions, and poisson distributions.</description>
+    </item>
+    
+    <item>
+      <title>briefnts3_contdb.pdf</title>
+      <link>/resources/briefnts3_contdb/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts3_contdb/data.json</guid>
+      <description>This file discusses continuous distributions, examples of probability continuous distributions, exponential distribution, and hazard distribution.</description>
+    </item>
+    
+    <item>
+      <title>briefnts4_randvt.pdf</title>
+      <link>/resources/briefnts4_randvt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts4_randvt/data.json</guid>
+      <description>This file discusses the topics: Discrete Random Vectors, Continuous Random Vectors, Independent Random Variables.</description>
+    </item>
+    
+    <item>
+      <title>briefnts5_funct.pdf</title>
+      <link>/resources/briefnts5_funct/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts5_funct/data.json</guid>
+      <description>This file discusses the functions of one random variable, and function of two or more variables.</description>
+    </item>
+    
+    <item>
+      <title>briefnts6_smfosm.pdf</title>
+      <link>/resources/briefnts6_smfosm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts6_smfosm/data.json</guid>
+      <description>This file discusses the second moment(SM) and first-order-second-moment (FOSM)propagation of uncertainty.</description>
+    </item>
+    
+    <item>
+      <title>briefnts7_con_sm.pdf</title>
+      <link>/resources/briefnts7_con_sm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts7_con_sm/data.json</guid>
+      <description>This file discusses the important result for jointly normally distributed variables X1 and X2.</description>
+    </item>
+    
+    <item>
+      <title>briefnts8_relnl.pdf</title>
+      <link>/resources/briefnts8_relnl/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts8_relnl/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Relationships between Mean and Variance of Normal and Lognormal Distributions&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>briefnts9_reliab.pdf</title>
+      <link>/resources/briefnts9_reliab/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/briefnts9_reliab/data.json</guid>
+      <description>This file discusses the topic &amp;lsquo;Calculation of Reliability Index, Beta&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>There are two parts to the lecture notes for this class: The Brief Note, which is a summary of the topics discussed in class, and the Application Example, which gives real-wolrd examples of the topics covered.
+WEEK # TOPICS BRIEF NOTES APPLICATION EXAMPLES Part 1: Introduction to Probability 1 Events and their Probability, Elementary Operations with Events, Total Probability Theorem, Independence, Bayes&amp;rsquo; Theorem 1 (PDF) 1 (PDF)
+2 (PDF)
+3 (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>
